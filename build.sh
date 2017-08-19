@@ -1,1 +1,1 @@
-docker build . -t pure-ftp
+docker build . -t pure-ftpd
